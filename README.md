@@ -9,6 +9,7 @@ aws-k8s-microservices/
 ├── kubernetes/
 │   ├── deployment.yaml
 │   ├── service.yaml
+├── README.md 
 ```
 
 ### 📄 `provider.tf`
