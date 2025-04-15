@@ -1,4 +1,4 @@
-## ✅ PROJECT 2: Kubernetes Microservices on AWS EKS
+## PROJECT 2: Kubernetes Microservices on AWS EKS
 
 ### 📁 GitHub Structure
 ```
